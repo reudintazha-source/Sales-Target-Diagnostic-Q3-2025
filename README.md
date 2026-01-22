@@ -3,8 +3,15 @@ Evaluating Target Fairness, Intensity, and KPI Alignment Across Areas &amp; Sale
 data/
 └── README.md   ← penjelasan data tidak di-upload
 analysis/
+
 output/
+
 README.md
+
+📎 Google Drive Link:https://drive.google.com/drive/folders/1JolspwbbmRkdx4bSnLg_5NTL7Gc_4isk?usp=drive_link
+
+The raw dataset and main working file used in this analysis are stored externally due to file size limitations.
+
 ## Data Limitation
 
 The original Excel file used in this analysis is already finalized and exceeds GitHub’s file size limit.
@@ -42,6 +49,7 @@ What targets are assigned to Salesmen, and do these targets reflect the characte
 Based on the available data, what are the patterns of targets and activities for each Salesman_Type, and are there indications that KPIs for certain types are too low or insufficiently challenging?
 
 🛠️ Tools & Skills
+
 -Microsoft Excel (Advanced)
 
 -Data Analysis & Business Logic
