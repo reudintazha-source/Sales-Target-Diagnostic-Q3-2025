@@ -1,5 +1,16 @@
 # Sales-Target-Diagnostic-Q3-2025
 Evaluating Target Fairness, Intensity, and KPI Alignment Across Areas &amp; Salesman Types
+data/
+└── README.md   ← penjelasan data tidak di-upload
+analysis/
+output/
+README.md
+## Data Limitation
+
+The original Excel file used in this analysis is already finalized and exceeds GitHub’s file size limit.
+To avoid reprocessing and to maintain data integrity, the raw dataset is not included in this repository.
+
+This project focuses on analytical logic, KPI evaluation, and business insights derived from the data.
 
 📌 Project Background
 In this case study, I act as a Business Analyst supporting the Sales Manager in evaluating Q3 2025 sales targets, with a specific focus on September 2025.
